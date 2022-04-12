@@ -1,8 +1,5 @@
 #!/bin/bash
 #Batch Job Paremeters
-#SBATCH --mail-user=rocklee2578@gmail.com
-#SBATCH --mail-type=END
-#SBATCH --mail-type=FAIL
 #SBATCH --job-name=Kinase
 #SBATCH --account=MST109174
 #SBATCH --nodes=1
